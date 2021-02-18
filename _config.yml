@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: 奥利奥译世界
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 英文新闻稿翻译练习（目前）、自我学习及留档分享
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: oliverhanning@outlook.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: oliverchampion26/oliverblog.github.io
   instagram:
   linkedin:
   pinterest:
